@@ -1,0 +1,14 @@
+{
+  "name": "node-chat-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "NODE_ENV=test nodemon --exec 'mocha'"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "moment": "^2.18.1",
+    "socket.io": "^2.0.3"
+  }
+}
