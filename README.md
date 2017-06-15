@@ -1,4 +1,4 @@
-# The simple node chat-app
+# The simple node-chat-app
 
 - Server side
   - Use nodejs v8.1.1
